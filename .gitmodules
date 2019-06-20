@@ -1,3 +1,3 @@
-[submodule "DSC"]
-	path = DSC
+[submodule "Flask-app"]
+	path = Flask-app
 	url = https://github.com/Samyak2/DSC
