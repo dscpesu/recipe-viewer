@@ -1,6 +1,6 @@
-## 3D Recipe Viewer
+# 3D Recipe Viewer
 
-# Flask App
+## Flask App
 The flask app runs a flask website. First upload a recipe image in the website. It extracts text from the image, then splits the text into sentences. Each sentence is classified into either an ingredient or a step. The ingredient sentences are further split into unit, quantity and ingredient name. The corresponding image for each ingredient is extracted from a google image search by a scraper. For each step, a YouTube video is shown and verbs are extracted from the sentence. A GIF is shown for each verb.
 To run the flask app:
  - Run `python app.py`
