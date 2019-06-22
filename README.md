@@ -6,4 +6,9 @@ To run the flask app:
  - Run `python app.py`
  - Go to `http://localhost:5000/` from a browser
 
-OR go to [this link](https://dsc-flask-api-heroku.herokuapp.com/) to check a slightly older version of the app running on Heroku.
+OR go to [this link](https://dsc-flask-api-heroku.herokuapp.com/) to check a slightly older version of the app running on Heroku. (It might take some time to load if it has been inactive for a while)
+
+## Requirements 
+
+ - Python 3.5.6
+ - See `requirements.txt` in Flask-app submodule for requirements of the Flask app
