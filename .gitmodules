@@ -1,3 +1,6 @@
 [submodule "Flask-app"]
 	path = Flask-app
 	url = https://github.com/Samyak2/DSC
+[submodule "Web App"]
+	path = Web App
+	url = https://github.com/varunp2k/DSC-webapp
