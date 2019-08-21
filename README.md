@@ -1,8 +1,10 @@
-# 3D Recipe Viewer
+# Recipe Viewer
 
 ## Usage
 
-To run the flask app:
+Instructions to run the flask app:
+ - Clone this repository `git clone https://github.com/dscpesu/3d-recipe-viewer.git`
+ - Change directory to the flask app `cd 3d-recipe-viewer/Flask-app`
  - Run `python app.py`
  - Go to `http://localhost:5000/` from a browser
 
